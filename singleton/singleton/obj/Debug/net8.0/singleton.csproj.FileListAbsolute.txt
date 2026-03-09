@@ -1,0 +1,14 @@
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\bin\Debug\net8.0\singleton.exe
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\bin\Debug\net8.0\singleton.deps.json
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\bin\Debug\net8.0\singleton.runtimeconfig.json
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\bin\Debug\net8.0\singleton.dll
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\bin\Debug\net8.0\singleton.pdb
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\obj\Debug\net8.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\obj\Debug\net8.0\singleton.AssemblyInfoInputs.cache
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\obj\Debug\net8.0\singleton.AssemblyInfo.cs
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\obj\Debug\net8.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\obj\Debug\net8.0\singleton.dll
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\obj\Debug\net8.0\refint\singleton.dll
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\obj\Debug\net8.0\singleton.pdb
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\obj\Debug\net8.0\singleton.genruntimeconfig.cache
+C:\Users\moise\OneDrive\Escritorio\singleton\singleton\singleton\obj\Debug\net8.0\ref\singleton.dll
